@@ -10,6 +10,7 @@ const DetailsBody=styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border-radius: 10%;
 `;
 
 const EachMovieWrapper=styled.div`
@@ -23,6 +24,7 @@ const EachMovieWrapper=styled.div`
 
 const EachMovieImg=styled.img`
     margin-bottom: 20px;
+    border-radius: 10%;
 `;
 
 const EachMovieInfo=styled.ul`
